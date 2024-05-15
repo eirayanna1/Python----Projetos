@@ -15,3 +15,4 @@ print(f'O maior número digitado foi: {maior}, e o menor número foi: {menor}.')
 # Imprimindo os números e suas posições
 for posicao, valor in enumerate(lista):
     print(f'O número {valor} está na posição {posicao}.')
+
